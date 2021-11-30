@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dozerex-creationz
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning programming in backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dozerex007@gmail.com, @dozerex on instagram
+- 👀 I’m interested in Web app developement
+- 🌱 I’m currently learning backend web technologies
+- 💞️ I’m looking to collaborate on web app developement project
+- 📫 How to reach me=> dozerex007@gmail.com, @dozerex on instagram
 
 <!---
 Dozerex-creationz/Dozerex-creationz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
