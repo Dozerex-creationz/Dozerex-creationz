@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dozerex-creationz
 - 👀 I’m interested in Web app developement
-- 🌱 I’m currently learning backend web technologies
-- 💞️ I’m looking to collaborate on web app developement project
+- 🌱 I’m currently learning REACT native...
+- 💞️ I’m looking to collaborate on nodeJS projectS
 - 📫 How to reach me=> dozerex007@gmail.com, @dozerex on instagram
 
 <!---
