@@ -34,12 +34,6 @@ Developing modern, responsive front-ends using React.js
 
 Improving system design, clean architecture, and deployment practices
 
-🏆 Achievements & Certifications
-GATE: AIR 1345 (2025), AIR 1015 (2024)
-
-Google Cloud Fundamentals: Core Infrastructure – Coursera
-
-Back End Development and APIs – FreeCodeCamp
 
 🎓 Education
 B.Tech Computer Science, VIT Vellore (2019–2023)
