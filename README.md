@@ -42,14 +42,6 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **GATE:** AIR 1345 (2025), AIR 1015 (2024)
-- 🖥️ **Google Cloud Fundamentals: Core Infrastructure** (Coursera)
-- 🖥️ **Back End Development and APIs** (FreeCodeCamp)
-
----
-
 ## 🎓 Education
 
 **B.Tech Computer Science**  
